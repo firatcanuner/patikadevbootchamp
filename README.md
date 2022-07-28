@@ -12,7 +12,7 @@ c-[2,6,16,18,22,27] 1
 
 Soru 2- Big-O gösterimini yazınız.
 O(n^2)
-Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
+Soru 3-Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 Soru 4-Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 18 sayısı Average Case kapsamına girmektedir.
 
